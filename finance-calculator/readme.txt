@@ -1,4 +1,4 @@
-This is somple calculator program, that calculates Vond or Investment result.
+This is somple calculator program, that calculates Bond or Investment result.
 Options:
 
 Bond:
