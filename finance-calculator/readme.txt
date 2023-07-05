@@ -10,8 +10,8 @@ the user by 100 e.g. (8 / 100) before dividing by 12.
 ● ‘n’ is the number of months over which the bond will be repaid.
 
 Investment:
--simple_result = A = P*(1 + r*t)
--complex result = 𝐴 = P(1 + r)^t ------- A = P * math.pow((1+r),t)
+-simple_result = P*(1 + r*t)
+-complex result = P(1 + r)^t ------- A = P * math.pow((1+r),t)
 ‘r’ is the interest entered above divided by 100, e.g. if 8% is entered,
 then r is 0.08.
 ● ‘P’ is the amount that the user deposits.
